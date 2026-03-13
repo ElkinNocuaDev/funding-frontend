@@ -42,7 +42,7 @@ of Digital Banking
 
 <p className="mt-6 text-slate-400 max-w-xl mx-auto">
 
-StartWaves is building a decentralized NeoBank
+Start Waves is building a decentralized NeoBank
 for Latin America where investors own the
 platform and earn governance tokens.
 
@@ -57,7 +57,7 @@ onClick={connectWallet}
 className="bg-indigo-500 hover:bg-indigo-600 px-6 py-3 rounded-xl font-semibold"
 >
 
-Connect Wallet
+View Pitch
 
 </button>
 
