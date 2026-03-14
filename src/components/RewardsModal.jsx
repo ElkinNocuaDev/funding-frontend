@@ -1,3 +1,5 @@
+import lvlupImage from "../assets/lvlup-google-pitch.png";
+
 export default function RewardsModal({open,onClose}){
 
 if(!open) return null
@@ -28,9 +30,9 @@ StartWaves — Finalist
 <div className="w-full flex justify-center">
 
 <img
-src="/src/assets/lvlup-google-pitch.png"
-alt="Google LvlUp Startup Pitch Finalist"
-className="w-full max-w-md rounded-lg object-contain"
+  src={lvlupImage}
+  alt="Google LvlUp Startup Pitch Finalist"
+  className="w-full max-w-md rounded-lg object-contain"
 />
 
 </div>
