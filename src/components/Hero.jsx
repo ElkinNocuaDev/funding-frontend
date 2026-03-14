@@ -78,12 +78,12 @@ className="absolute top-3 right-3 z-10 bg-black/60 px-3 py-1 rounded-lg"
    </button>
    
    <iframe
-   className="w-full h-full"
-   src="https://youtube.com/shorts/rrgD7ysmFW8?feature=share"
-   title="Start Waves Pitch"
-   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-   allowFullScreen
-   />
+  className="w-full h-full"
+  src="https://www.youtube.com/embed/rrgD7ysmFW8"
+  title="Start Waves Pitch"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+/>
    
    </div>
    
