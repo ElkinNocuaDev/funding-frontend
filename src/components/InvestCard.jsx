@@ -171,7 +171,7 @@ export default function InvestCard(){
   <div className="bg-slate-900 border border-slate-800 rounded-2xl p-8 shadow-2xl w-full max-w-md" id="invest">
 
     <h2 className="text-2xl font-bold mb-6">
-      Invest in StartWaves
+      Invest in Start Waves
     </h2>
 
     {!wallet ? (

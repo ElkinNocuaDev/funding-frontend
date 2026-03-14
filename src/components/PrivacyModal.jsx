@@ -32,7 +32,7 @@ className="text-slate-400 hover:text-white text-xl"
 
 <p>
 
-StartWaves is committed to protecting your privacy and
+Start Waves is committed to protecting your privacy and
 ensuring transparency in how data is handled across the
 platform.
 
@@ -46,7 +46,7 @@ Information We Collect
 
 <p>
 
-StartWaves does not require traditional personal data
+Start Waves does not require traditional personal data
 to access the platform. The primary identifier used
 within the ecosystem is your blockchain wallet address.
 
@@ -67,7 +67,7 @@ Transactions executed through blockchain networks are
 public by design. Wallet addresses and transaction
 data may be visible on public block explorers.
 
-StartWaves does not control or modify this information.
+Start Waves does not control or modify this information.
 
 </p>
 
@@ -82,7 +82,7 @@ Platform Security
 
 <p>
 
-StartWaves utilizes secure infrastructure and smart
+Start Waves utilizes secure infrastructure and smart
 contract technology to protect user interactions
 within the platform.
 
@@ -105,7 +105,7 @@ The platform may use minimal analytics tools to
 improve user experience and platform performance.
 
 No sensitive financial information is stored
-by StartWaves.
+by Start Waves.
 
 </p>
 
@@ -136,7 +136,7 @@ requirements.
 <div className="px-8 py-5 border-t border-slate-800 flex justify-between items-center">
 
 <p className="text-xs text-slate-500">
-StartWaves — Banking for All.
+Start Waves — Banking for All.
 </p>
 
 <button

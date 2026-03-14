@@ -33,13 +33,13 @@ return(
 
 <h2 className="text-4xl font-bold text-center mb-6">
 
-StartWaves Ecosystem
+Start Waves Ecosystem
 
 </h2>
 
 <p className="text-slate-400 text-center max-w-2xl mx-auto mb-16">
 
-The StartWaves NeoBank ecosystem is powered by decentralized
+The Start Waves NeoBank ecosystem is powered by decentralized
 financial applications enabling analytics, payments and lending
 across global markets.
 

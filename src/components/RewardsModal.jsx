@@ -41,7 +41,7 @@ StartWaves — Finalist
 
 <p className="text-slate-400 text-sm mt-4 leading-relaxed">
 
-StartWaves was selected as a finalist in the Google LvlUp Startup Pitch
+Start Waves was selected as a finalist in the Google LvlUp Startup Pitch
 Competition among hundreds of startups. This recognition validates our
 vision of building a decentralized NeoBank infrastructure for Latin
 America powered by blockchain and DeFi technology.

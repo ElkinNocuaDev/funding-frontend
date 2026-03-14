@@ -18,13 +18,13 @@ export default function LaunchSection(){
           <h2 className="text-4xl lg:text-5xl font-bold mt-4 leading-tight">
 
             Become an Early Owner  
-            of the <span className="text-indigo-400">StartWaves NeoBank</span>
+            of the <span className="text-indigo-400">Start Waves NeoBank</span>
 
           </h2>
 
           <p className="text-gray-400 leading-relaxed text-lg mt-6 max-w-xl">
 
-            StartWaves is building a decentralized NeoBank for Latin America and Central America.
+            Start Waves is building a decentralized NeoBank for Latin America and Central America.
             Powered by blockchain technology, the ecosystem enables digital wallets, borderless payments and micro-lending services designed for emerging markets.
             By investing today, you secure early ownership in the financial infrastructure that will power the next generation of digital banking.
 
@@ -85,17 +85,17 @@ export default function LaunchSection(){
 
               <li className="flex items-center gap-3">
                 <span className="text-green-400">✔</span>
-                Governance voting in the StartWaves ecosystem
+                Protocol Governance Power
               </li>
 
               <li className="flex items-center gap-3">
                 <span className="text-green-400">✔</span>
-                Early access to startup investment opportunities
+                Exclusive Access to Venture Allocations
               </li>
 
               <li className="flex items-center gap-3">
                 <span className="text-green-400">✔</span>
-                Platform rewards and staking incentives
+                Network Revenue Incentives
               </li>
 
             </ul>

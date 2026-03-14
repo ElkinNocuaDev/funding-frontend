@@ -40,7 +40,7 @@ return(
 <div>
 
 <h3 className="text-xl font-bold mb-4">
-StartWaves
+Start Waves
 </h3>
 
 <p className="text-slate-400 text-sm leading-relaxed">

@@ -36,7 +36,7 @@ className="text-slate-400 hover:text-white text-xl"
 By accessing or using the StartWaves platform you agree
 to comply with these Terms of Service.
 
-StartWaves provides blockchain-based financial
+Start Waves provides blockchain-based financial
 infrastructure designed for digital banking,
 decentralized finance and tokenized ecosystems.
 
@@ -56,7 +56,7 @@ compatible digital wallets. You are responsible for
 maintaining the security of your wallet and private
 keys.
 
-StartWaves never stores or controls user private keys.
+Start Waves never stores or controls user private keys.
 
 </p>
 
@@ -74,7 +74,7 @@ Blockchain Transactions
 Transactions executed through blockchain networks
 are irreversible and publicly verifiable.
 
-StartWaves does not control blockchain networks
+Start Waves does not control blockchain networks
 and cannot reverse or modify transactions once
 they are confirmed.
 
@@ -91,7 +91,7 @@ Digital Assets & Token Utility
 
 <p>
 
-Tokens within the StartWaves ecosystem may provide
+Tokens within the Start Waves ecosystem may provide
 utility within the platform including governance,
 payments or access to financial services.
 
@@ -132,7 +132,7 @@ Limitation of Liability
 
 <p>
 
-StartWaves provides technology infrastructure
+Start Waves provides technology infrastructure
 for decentralized financial services and does
 not guarantee financial returns or investment
 performance.
@@ -152,7 +152,7 @@ Updates to Terms
 
 <p>
 
-StartWaves may update these Terms periodically
+Start Waves may update these Terms periodically
 to reflect platform improvements, ecosystem
 changes or regulatory requirements.
 
@@ -171,7 +171,7 @@ acceptance of updated terms.
 <div className="px-8 py-5 border-t border-slate-800 flex justify-between items-center">
 
 <p className="text-xs text-slate-500">
-StartWaves — Banking for All.
+Start Waves — Banking for All.
 </p>
 
 <button

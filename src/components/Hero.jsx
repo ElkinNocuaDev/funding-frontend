@@ -57,7 +57,7 @@ onClick={connectWallet}
 className="bg-indigo-500 hover:bg-indigo-600 px-6 py-3 rounded-xl font-semibold"
 >
 
-Connect Wallet
+View Pitch
 
 </button>
 
