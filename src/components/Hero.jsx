@@ -3,6 +3,7 @@ import { useState } from "react";
 export default function Hero(){
 
 const [wallet,setWallet] = useState(null)
+const [showVideo,setShowVideo] = useState(false)
 
 async function connectWallet(){
 
@@ -53,13 +54,40 @@ platform and earn governance tokens.
 {!wallet && (
 
 <button
-onClick={connectWallet}
+onClick={()=>setShowVideo(true)}
 className="bg-indigo-500 hover:bg-indigo-600 px-6 py-3 rounded-xl font-semibold"
 >
 
-View Pitch
+Watch Pitch
 
 </button>
+
+)}
+
+{showVideo && (
+
+   <div className="fixed inset-0 z-50 bg-black/80 flex items-center justify-center">
+   
+   <div className="relative w-[360px] h-[640px] bg-black rounded-2xl overflow-hidden">
+   
+   <button
+   onClick={()=>setShowVideo(false)}
+className="absolute top-3 right-3 z-10 bg-black/60 px-3 py-1 rounded-lg"
+   >
+   ✕
+   </button>
+   
+   <iframe
+   className="w-full h-full"
+   src="https://youtube.com/shorts/rrgD7ysmFW8?feature=share"
+   title="Start Waves Pitch"
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+   allowFullScreen
+   />
+   
+   </div>
+   
+   </div>
 
 )}
 
